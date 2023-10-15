@@ -1,2 +1,6 @@
 # Image-Classifier-AI-PND
-In this project, we'll train an image classifier to recognize different species of flowers.
+## AI Programming with Python Project
+
+In this project, we'll develop code for an image classifier built with PyTorch, to recognize different species of flowers, and train it.
+Then convert it into a command line application.
+
